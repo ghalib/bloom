@@ -1,0 +1,3 @@
+Demo implementation of a Bloom filter to aid my learning at one
+point.  Note that in the 'real world' you would absolutely not use a
+cryptographic hash for this, as it is overkill.
